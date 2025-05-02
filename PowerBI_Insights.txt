@@ -1,0 +1,9 @@
+Insights from Power BI Dashboard:
+
+1. Mountain Bikes have the highest sales – They generated the most total order value among all product categories (over $60K).
+
+2. Road Bikes are the second top sellers – They follow closely behind Mountain Bikes in total sales.
+
+3. Order totals change over time – The line chart shows that sales amounts go up and down between January and April 2023, with some noticeable spikes.
+
+4. Downhill is the heaviest subcategory – Among all product subcategories, "Downhill" has the highest total product weight.
